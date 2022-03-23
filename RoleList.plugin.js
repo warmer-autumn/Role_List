@@ -7,3 +7,8 @@
  * @website https://github.com/warmer-autumn
  */
 
+const config = {}
+
+const module = {
+}
+
